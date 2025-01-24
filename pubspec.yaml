@@ -1,0 +1,26 @@
+name: accessibility_scanner
+description: The auxiliary function of scanning code gun based on AccessibilityService
+version: 1.0.0
+author: lixiaohong<liyufengisme@gmail.com>
+homepage: https://github.com/liyufengrex/accessibility_scanner.git
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.rex.accessibility_scanner
+        pluginClass: AccessibilityScannerPlugin
+
