@@ -98,4 +98,4 @@ AccessibilityScannerProvider.listenScannerData(
 <string name="accessibility_service_description">请依次操作“返回”按钮，返回应用正常启用后，扫码器即可正常识别</string>
 ```
 ### 详细使用方式可查看 example ：
-![scanner_demo_1.gif](https://upload-images.jianshu.io/upload_images/25776880-0328e5e6c33d5b3e.gif?imageMogr2/auto-orient/strip)
+![scanner_demo_1.gif](https://github.com/liyufengrex/accessibility_scanner/blob/main/scanner_demo_1.gif)
