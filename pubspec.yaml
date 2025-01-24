@@ -1,11 +1,11 @@
 name: accessibility_scanner
 description: The auxiliary function of scanning code gun based on AccessibilityService
 version: 1.0.0
-author: lixiaohong<liyufengisme@gmail.com>
 homepage: https://github.com/liyufengrex/accessibility_scanner.git
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=2.18.6 <3.0.0'
+  flutter: ">=2.5.0"
 
 dependencies:
   flutter:
